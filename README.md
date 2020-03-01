@@ -1,4 +1,4 @@
-<html>
+<!Doctype html>
 <head>
 	<title>Web Developement</title>
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
