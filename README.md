@@ -1,4 +1,3 @@
-<!Doctype html>
 <head>
 	<title>Web Developement</title>
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
@@ -11,7 +10,7 @@
 	<div class="col-lg-3 col-md-3 col-sm-3">
 	<h1>Hi ,I am Rohith</h1>
 	<br>
-	<img src="/tmp/rohith.png" alt="Simply Easy Learning" width="200"
+	<img src="../tmp/rohith.png" alt="Simply Easy Learning" width="200"
          height="200">
 	<!--<img src="![rohith](https://user-images.githubusercontent.com/58157720/75626581-921dec00-5bee-11ea-82f6-014bdc4ca756.png)" width="200" height="200">-->
 	</div>
@@ -47,4 +46,3 @@
 </div>
 </div>
 </body>
-</html>
