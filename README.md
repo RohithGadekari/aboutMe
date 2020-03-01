@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <html>
 <head>
 	<title>Web Developement</title>
