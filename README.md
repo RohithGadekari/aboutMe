@@ -11,9 +11,9 @@
 	<div class="col-lg-3 col-md-3 col-sm-3">
 	<h1>Hi ,I am Rohith</h1>
 	<br>
-	<!--<img src="C:\Users\ROHITH REDDY G\Downloads\rohith.png" alt="Simply Easy Learning" width="200"
-         height="200">-->
-	<img src="![rohith](https://user-images.githubusercontent.com/58157720/75626581-921dec00-5bee-11ea-82f6-014bdc4ca756.png)" width="200" height="200">
+	<img src="/tmp/rohith.png" alt="Simply Easy Learning" width="200"
+         height="200">
+	<!--<img src="![rohith](https://user-images.githubusercontent.com/58157720/75626581-921dec00-5bee-11ea-82f6-014bdc4ca756.png)" width="200" height="200">-->
 	</div>
 
 	<div class="col-lg-9 col-md-9 col-sm-9"> 
